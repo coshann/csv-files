@@ -1,12 +1,12 @@
 Steps,Running Status,Current lot Number,Material Used (KG),Waste Materials (KG),Current Lot Run Time (Hours),Expected Lot Run Time (Hours),Process Down time,Failure Rate,Units produced
-Plate Grinding,Running,20005.0,,,1.3,1.5,8%,5%,1043
-Machine 1,Running,20002.0,32.4,4.2,20.0,30.0,12%,,205
-Machine 2,Running,20004.0,42.5,5.3,74.0,108.0,40%,,102
-Machine 3,Stopped,,,,,,3%,,733
-Furnace,Running,19999.0,,,8.0,10.0,4%,,1037
-Wirecut,Running,20000.0,,,3.0,4.0,15%,,1036
-Machining,Stopped,,,,,,20%,4%,1035
-Dimension Measurement,Running,19998.0,,,1.0,3.0,30%,4%,1034
-Tensile Strength Measurement,Running,19998.0,,,0.5,1.0,14%,10%,1034
-Packing,Running,19997.0,,,1.0,1.0,70%,,1033
-Shipping,Running,19996.0,,,1.0,2.0,70%,,1032
+Plate Grinding,Running,20005,,,1.3,1.5,0.08 ,0.05 ,1043
+Machine 1,Running,20002,32.4,4.2,20,30,0.12 ,,205
+Machine 2,Running,20004,42.5,5.3,74,108,0.40 ,,102
+Machine 3,Stopped,,,,,,0.03 ,,733
+Furnace,Running,19999,,,8,10,0.04 ,,1037
+Wirecut,Running,20000,,,3,4,0.15 ,,1036
+Machining,Stopped,,,,,,0.20 ,0.04,1035
+Dimension Measurement,Running,19998,,,1,3,0.30 ,0.04,1034
+Tensile Strength Measurement,Running,19998,,,0.5,1,0.14 ,0.10,1034
+Packing,Running,19997,,,1,1,0.70 ,,1033
+Shipping,Running,19996,,,1,2,0.70 ,,1032
